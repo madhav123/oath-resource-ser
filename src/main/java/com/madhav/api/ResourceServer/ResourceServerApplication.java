@@ -8,6 +8,7 @@ public class ResourceServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResourceServerApplication.class, args);
+		System.out.println("this is madhav");
 	}
 
 }
